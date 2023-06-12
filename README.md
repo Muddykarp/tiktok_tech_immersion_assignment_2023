@@ -1,5 +1,3 @@
-# assignment_demo_2023
+# tiktok_tech_immersion_assignment_2023
 
-![Tests](https://github.com/weixingp/tiktok-tech-immersion-2023/actions/workflows/test.yml/badge.svg)
-
-This is a completed project for backend assignment of 2023 TikTok Tech Immersion.
+This is the completed project for TikTok Tech Immersion Assignment 2023. Tasks are followed according to the requirements stated in the assignment.
